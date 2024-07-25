@@ -1,1 +1,1 @@
-Please submit your version into the right numbered meeting folder
+Using various models to predict occurrences of heart attacks.
